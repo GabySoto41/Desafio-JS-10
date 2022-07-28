@@ -19,7 +19,7 @@ function clima () {
   })
 
 
-  alert ("Estamos buscando")
+  alert ("Estamos Procesando tu Búsqueda...")
 
   
 }
